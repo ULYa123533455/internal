@@ -1,0 +1,12 @@
+.Jbl{
+    background-image: url("https://img.freepik.com/free-vector/flat-design-polygonal-background_23-2148906367.jpg?t=st=1708492505~exp=1708493105~hmac=06ffac46659fac8c19bc9633f8d9125c2cc8512bf043ffc640bca75da86f7a7b");
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+}
+
+.containerJbl{
+    margin-top: 75px;
+}

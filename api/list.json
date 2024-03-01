@@ -1,0 +1,73 @@
+{
+  "GpuJbl": [
+    {
+      "nama": "JBL TUNE BEAM",
+      "image": "https://id.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw7e70dc72/01.JBL_Tune%20Beam_Product%20Image_Hero_White.png?sw=537&sfrm=png",
+      "bf": "4.2",
+      "core": "4096",
+      "tu": "256",
+      "tc": "-",
+      "vr": "type-c",
+      "bw": "type-c",
+      "pc": "1541",
+      "id": "2"
+    },
+    {
+      "nama": "JBL TOUR PRO 2",
+      "image": "https://id.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwcd25ef3e/5.JBL_Tour_Pro_2_Product%20Image_Case%20Open_Black.png?sw=537&sfrm=png",
+      "cu": "type-b",
+      "core": "3584",
+      "tu": "224",
+      "tc": "4 jam",
+      "vr": "-",
+      "bw": "type-c",
+      "pc": "1514",
+      "id": "3"
+    },
+    {
+      "nama": "JBL WAVE BUDS",
+      "image": "https://id.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw77340295/1.JBL_Wave_Vibe_%20Buds_Product%20Image_Hero_Black.png?sw=537&sfrm=png",
+      "core": "3072",
+      "tu": "192",
+      "tc": "5jam",
+      "vr": "-",
+      "bw": "type-c",
+      "pc": "100",
+      "id": "4"
+    },
+    {
+      "nama": "JBL Tune 230NC TWS",
+      "image": "https://id.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw62c4f85a/4.JBL_TUNE_230NC_Product%20Image_Case%20open_Blue.png?sw=537&sfrm=png",
+      "core": "1024",
+      "tu": "64",
+      "tc": "7.2 Billion",
+      "vr": "-",
+      "bw": "type-c",
+      "pc": "122",
+      "id": "5"
+    },
+    {
+      "nama": "JBL Reflect Flow",
+      "image": "https://id.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwe9b14c0e/JBL_REFLECT_FLOW_Case_Detail3_Green_1605x1605.png?sw=537&sfrm=png",
+      "bf": "-",
+      "core": "768",
+      "tu": "48",
+      "tc": "-",
+      "vr": "-",
+      "bw": "type-c",
+      "pc": "102",
+      "id": "6"
+    },
+    {
+      "nama": "JBL Endurance Race TWS",
+      "image": "https://id.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw2131ddae/1.JBL_ENDURANCE_RACE_TWS_Product%20Image_Hero_Blue.png?sw=537&sfrm=png",
+      "core": "768",
+      "tu": "32",
+      "tc": "7.2 Billion",
+      "vr": "-",
+      "bw": "type-c",
+      "pc": "PCIe 4.0 x8",
+      "id": "7"
+    }
+  ]
+}

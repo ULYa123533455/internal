@@ -1,0 +1,52 @@
+/* Footer.css */
+
+.footer {
+    background-color: rgba(0,0,0,0); 
+    border: none;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-item {
+    display: flex;
+    align-items: center;
+    margin-left: 20px; /* Add some space to the left */
+}
+
+.footer-item a {
+    color: black; /* Set text color to black */
+    text-decoration: none; /* Remove default underline */
+    margin-left: 10px; /* Add some space between icon and text */
+}
+
+.footer-item:hover a {
+    text-decoration: underline; /* Add underline on hover */
+}
+
+.footer-icon {
+    color: black; /* Set icon color to black */
+}
+
+.footer-copyright p {
+    color: black; /* Set text color to black */
+    margin-top: 20px; /* Add some space between list and copyright */
+}
+
+.footer-line {
+    width: 100%; /* Make the line span the full width */
+    border-top: 1px solid black; /* Border for line */
+    margin-top: 20px; /* Add space between copyright and line */
+    margin-bottom: 10px; /* Add space between line and footer */
+}
+
+footer a, footer a:visited{
+    color: black;
+}
